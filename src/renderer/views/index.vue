@@ -22,7 +22,6 @@
   <el-button type="primary" icon="delete"></el-button>
   <el-button type="primary" icon="search">搜索</el-button>
   <el-button type="primary">上传<i class="el-icon-upload el-icon--right"></i></el-button>
-
   <el-button type="primary" size="large">大型按钮</el-button>
   <el-button type="primary">正常按钮</el-button>
   <el-button type="primary" size="small">小型按钮</el-button>

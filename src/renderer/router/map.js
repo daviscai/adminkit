@@ -8,13 +8,18 @@ export default [
   {
     path: '/',
     redirect: {
-      path: '/index'
+      path: '/login'
     }
   },
   {
     title: 'index',
     path: '/index',
     component: require('../views/index.vue')
+  },
+  {
+    title: 'login',
+    path: '/login',
+    component: require('../views/login.vue')
   }
 
 ]
